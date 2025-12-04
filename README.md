@@ -1,0 +1,1 @@
+this uses hard coded so for this to work without tweaking, you need a 2560x1440 monitor, and it only works on dam battle grounds, to use you this you look for flares, then you ping it and remember the length in meter when it was at its highest point, then you press F7 and type the value, then go into the map (zoom all the way out) 
